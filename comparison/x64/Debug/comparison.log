@@ -1,0 +1,6 @@
+﻿  comparison.cpp
+C:\Users\PC\source\repos\comparison\comparison\comparison.cpp(48,5): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\PC\source\repos\comparison\comparison\comparison.cpp(61,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\PC\source\repos\comparison\comparison\comparison.cpp(62,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\PC\source\repos\comparison\comparison\comparison.cpp(69,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  comparison.vcxproj -> C:\Users\PC\source\repos\comparison\x64\Debug\comparison.exe
